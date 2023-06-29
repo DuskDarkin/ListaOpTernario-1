@@ -1,0 +1,1 @@
+# ListaOpTernario-1
